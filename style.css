@@ -1,0 +1,163 @@
+body {
+    font-family: 'Inter', sans-serif;
+    width: 1200px;
+    margin: auto;
+}
+.container {
+    width: 1200px;
+    margin: auto;
+}
+.row {
+    display: flex;
+    flex-wrap: wrap;
+}
+/*header_nav bar */
+.header_nav{
+    padding-top: 20px;
+    padding-bottom: 20px;
+    box-shadow: 0px 5px 3px rgb(204,204,204);
+}
+.box1 img {
+    width: 100px;
+}
+.box1 {
+    width: 45%;
+    margin: auto;
+}
+.box2 {
+    width: 45%;
+    margin: auto;
+}
+.box2 a {
+    text-decoration: none;
+    color: rgb(131,131,131);
+    font-size: 14px;
+    padding: 20px;
+}
+.box2 a:hover {
+    color: blue;
+}
+.box2 i {
+    font-size: 20px;
+}
+
+/* title tag */
+.title {
+    text-align: center;
+    padding-top: 70px;
+}
+.title img {
+    width: 450px;
+}
+.title h1 {
+    font-size: 42px;
+    font-weight: 500;
+    color: #424242;
+}
+.title h3 {
+    font-size: 18px;
+    font-weight: 500;
+    color: #646464;
+    padding-bottom: 20px;
+}
+.title a {
+    text-decoration: none;
+    border: 1px solid rgb(37, 37, 214);
+    padding: 10px 30px;
+    color: white;
+    background-color: rgb(37, 37, 214);
+    border-radius: 5px;
+}
+.title a:hover {
+    background-color: black;   
+}
+
+/* title2 tag */
+.title2 {
+    padding-top: 50px;
+}
+.box_1 {
+    width: 45%;
+    margin: auto;
+}
+.box1 img {
+    width: 100px;
+}   
+/* title3 tag */
+.title3 {
+    width: 100%;
+    margin: auto;
+    padding-top: 80px;
+    text-align: center;
+}
+.boxone img { 
+    width: 100%;
+    margin: auto;
+}
+.boxone h6 {
+    text-align: center;
+    padding-bottom: 10%;
+}
+.boxone h6 {
+    text-decoration: none;
+    color: black;
+}
+.boxone h6:hover {
+    color: blue;
+}
+/* title 4 tag */
+.one_box {
+    width: 50%;
+    margin: auto;
+    font-size: 20px;
+    font-weight: 100;
+}
+.box_one1 h6 {
+    text-decoration: none;
+    color: black;
+}
+.box_one1 h6:hover {
+    color: blue;
+}
+.box_one2 {
+    font-size: 25px;
+    border: 2px solid black;
+    text-align: center;
+}
+.box_one3 {
+    font-size: 26px;
+    border: 2px solid black;
+    text-align: center;
+}
+
+/*title 5 tag */
+.boxtwo1 {
+    width: 30%;
+    margin: auto;
+    padding-top: 80px;
+}
+.boxtwo1 a {
+    text-decoration: none;
+    color: black;
+}
+.boxtwo1 a:hover {
+    color: blue;
+}
+
+/* title 6 tag */
+.boxthree {
+    width: 100%;
+    margin: auto;
+    text-align: center;
+    padding-top: 50px;
+    padding-bottom: 10%;    
+}
+.boxthree a {
+    text-decoration: none;
+    color: white;
+    background-color: blue;
+    padding: 10px 20px;
+}
+.boxthree a:hover {
+    background-color: black;
+}
